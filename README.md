@@ -1,8 +1,8 @@
 # Pertemuan 06 Nested Loop Python
 
-Nama: [Isi Nama Anda]
-NIM: [Isi NIM Anda]
-Kelas: [Isi Kelas Anda]
+Nama: [Jihan Fithriyyah]
+NIM: [2225250155]
+Kelas: [3A]
 
 ## Tujuan
 Menggunakan nested loop, pola, akumulasi, dan pencacahan.
