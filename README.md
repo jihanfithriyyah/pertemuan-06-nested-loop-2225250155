@@ -2,7 +2,7 @@
 
 Nama: Jihan Fithriyyah
 NIM: 2225250155
-Kelas: Pendidikan Matematika
+Kelas: 3A
 
 ## Tujuan
 - Memahami konsep dasar serta alur eksekusi dari dua tingkat perulangan (nested loop).
